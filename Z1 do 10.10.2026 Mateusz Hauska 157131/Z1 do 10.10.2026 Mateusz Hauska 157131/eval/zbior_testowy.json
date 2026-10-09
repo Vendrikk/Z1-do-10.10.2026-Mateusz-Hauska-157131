@@ -1,0 +1,20 @@
+[
+  {"typ": "prosty", "pytanie": "Ile dni ma sklep na rozpatrzenie reklamacji?", "oczekiwane_slowa": ["14"], "oczekiwane_zrodlo": "regulamin_reklamacji.md"},
+  {"typ": "prosty", "pytanie": "Do kiedy mogę zgłosić uszkodzenie paczki?", "oczekiwane_slowa": ["7"], "oczekiwane_zrodlo": "regulamin_reklamacji.md"},
+  {"typ": "prosty", "pytanie": "Czy mogę oddać otwarty krem bez podania przyczyny?", "oczekiwane_slowa": ["nie", "higien|otwart"], "oczekiwane_zrodlo": "polityka_zwrotow.md"},
+  {"typ": "prosty", "pytanie": "Kto płaci za odesłanie towaru przy zwrocie?", "oczekiwane_slowa": ["klient"], "oczekiwane_zrodlo": "polityka_zwrotow.md"},
+  {"typ": "prosty", "pytanie": "Od jakiej kwoty dostawa jest darmowa?", "oczekiwane_slowa": ["199"], "oczekiwane_zrodlo": "dostawa.md"},
+  {"typ": "prosty", "pytanie": "Do której godziny muszę zamówić, żeby paczka wyszła dziś?", "oczekiwane_slowa": ["13"], "oczekiwane_zrodlo": "dostawa.md"},
+  {"typ": "parafraza", "pytanie": "Przyszła paczka z rozbitym słoikiem. Ile mam czasu, żeby to zgłosić?", "oczekiwane_slowa": ["7"], "oczekiwane_zrodlo": "regulamin_reklamacji.md"},
+  {"typ": "parafraza", "pytanie": "Ile zapłacę za wysyłkę do automatu paczkowego?", "oczekiwane_slowa": ["12,99|12.99"], "oczekiwane_zrodlo": "dostawa.md"},
+  {"typ": "parafraza", "pytanie": "Mieszkam w Berlinie. Czy mogę u was zamówić z dostawą do domu?", "oczekiwane_slowa": ["nie", "polsk"], "oczekiwane_zrodlo": "dostawa.md"},
+  {"typ": "parafraza", "pytanie": "W jaki sposób mogę złożyć reklamację?", "oczekiwane_slowa": ["formularz|mail|list"], "oczekiwane_zrodlo": "regulamin_reklamacji.md"},
+  {"typ": "wnioskowanie", "pytanie": "Reklamuję ekspres za 800 zł. Kto musi zatwierdzić moją reklamację?", "oczekiwane_slowa": ["kierownik"], "oczekiwane_zrodlo": "regulamin_reklamacji.md"},
+  {"typ": "wnioskowanie", "pytanie": "Opłaciłem zamówienie w piątek o 15:00. Kiedy paczka zostanie wysłana?", "oczekiwane_slowa": ["następn|poniedział"], "oczekiwane_zrodlo": "dostawa.md"},
+  {"typ": "wnioskowanie", "pytanie": "Odstąpiłam od umowy, ale jeszcze nie odesłałam towaru. Czy sklep już musi oddać mi pieniądze?", "oczekiwane_slowa": ["nie", "otrzyma|odes"], "oczekiwane_zrodlo": "polityka_zwrotow.md"},
+  {"typ": "dwa_fragmenty", "pytanie": "Jakie mam terminy na zgłoszenie uszkodzonej paczki i na odstąpienie od umowy?", "oczekiwane_slowa": ["7", "14"], "oczekiwane_zrodlo": ["regulamin_reklamacji.md", "polityka_zwrotow.md"]},
+  {"typ": "dwa_fragmenty", "pytanie": "Zamówienie za 150 zł kurierem, a potem zwrot. Ile kosztuje dostawa i kto płaci za odesłanie?", "oczekiwane_slowa": ["14,99|14.99", "klient"], "oczekiwane_zrodlo": ["dostawa.md", "polityka_zwrotow.md"]},
+  {"typ": "odmowa", "pytanie": "Czy macie sklep stacjonarny w Krakowie?", "oczekiwane_slowa": ["nie mam tej informacji"], "oczekiwane_zrodlo": null},
+  {"typ": "odmowa", "pytanie": "Jaki jest numer telefonu do biura obsługi klienta?", "oczekiwane_slowa": ["nie mam tej informacji"], "oczekiwane_zrodlo": null},
+  {"typ": "odmowa", "pytanie": "Czy mogę zapłacić kartą przy odbiorze paczki?", "oczekiwane_slowa": ["nie mam tej informacji"], "oczekiwane_zrodlo": null}
+]

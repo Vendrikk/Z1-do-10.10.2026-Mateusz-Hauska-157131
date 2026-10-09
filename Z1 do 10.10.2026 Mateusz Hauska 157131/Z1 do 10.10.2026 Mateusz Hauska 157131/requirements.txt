@@ -1,0 +1,19 @@
+# Wersje przypięte i sprawdzone 19.09.2026 (Python 3.12). Nie podnoś w trakcie semestru bez testu.
+langchain==1.4.2
+langchain-core==1.6.3
+langchain-classic==1.0.8
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langgraph==1.2.11
+langchain-anthropic==1.7.2
+langchain-ollama==1.1.0
+langchain-google-genai==4.4.0
+langchain-openai==1.6.2
+langchain-chroma==1.1.0
+chromadb==1.5.9
+anthropic==1.7.0
+rank-bm25==0.2.2
+python-dotenv==1.2.3
+pydantic==2.13.5
+openpyxl==3.1.5
+pypdf==6.19.0

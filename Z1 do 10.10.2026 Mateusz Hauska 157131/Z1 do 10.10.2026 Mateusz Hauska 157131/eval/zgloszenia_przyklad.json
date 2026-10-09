@@ -1,0 +1,18 @@
+[
+  {"mail": "Dzień dobry, zamówienie 1001 nie dotarło, a minął tydzień. Co się dzieje?",
+   "oczekiwane": {"kategoria": "status_zamowienia", "numer_zamowienia": "1001", "pilnosc_min": 2}},
+  {"mail": "krem przyszedl z rozbita pompka, chce wymiane!!! zamowienie 1045",
+   "oczekiwane": {"kategoria": "reklamacja", "numer_zamowienia": "1045", "pilnosc_min": 3}},
+  {"mail": "Chciałabym oddać serum, nie pasuje mi zapach. Nie było otwierane.",
+   "oczekiwane": {"kategoria": "zwrot", "numer_zamowienia": null, "pilnosc_min": 1}},
+  {"mail": "Trzeci raz piszę w sprawie zamówienia 2210. Jeśli jutro nie będzie paczki, rezygnuję i wystawiam opinię.",
+   "oczekiwane": {"kategoria": "status_zamowienia", "numer_zamowienia": "2210", "pilnosc_min": 4}},
+  {"mail": "Czy tonik z nowej serii nadaje się do cery naczynkowej?",
+   "oczekiwane": {"kategoria": "inne", "numer_zamowienia": null, "pilnosc_min": 1}},
+  {"mail": "Zam. nr 3307: balsam wylał się w paczce, wszystko zalane. Proszę o nowy produkt albo zwrot kasy.",
+   "oczekiwane": {"kategoria": "reklamacja", "numer_zamowienia": "3307", "pilnosc_min": 3}},
+  {"mail": "Odsyłam cały zestaw z zamówienia 4120, rozmyśliłem się. Jak mam to zrobić?",
+   "oczekiwane": {"kategoria": "zwrot", "numer_zamowienia": "4120", "pilnosc_min": 1}},
+  {"mail": "Kiedy wyślecie moje zamówienie? Płaciłam wczoraj wieczorem, numeru nie pamiętam.",
+   "oczekiwane": {"kategoria": "status_zamowienia", "numer_zamowienia": null, "pilnosc_min": 1}}
+]
